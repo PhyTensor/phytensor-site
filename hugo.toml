@@ -1,4 +1,4 @@
-baseURL = 'https://phytensor.github.io/phytensor-site/'
+baseURL = 'https://www.phytensor.xyz/'
 languageCode = 'en-us'
 title = 'Alox Games - PhyTensor'
 theme = 'ananke'

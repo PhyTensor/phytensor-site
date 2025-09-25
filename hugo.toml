@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://phytensor.github.io/'
 languageCode = 'en-us'
 title = 'Alox Games - PhyTensor'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+

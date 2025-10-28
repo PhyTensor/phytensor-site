@@ -2,11 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alox Games - PhyTensor</title>
-    <link>https://www.phytensor.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Alox Games - PhyTensor</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://www.phytensor.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2025 13:22:12 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lumen Privacy</title>
+      <link>http://localhost:1313/posts/lumenprivacy/</link>
+      <pubDate>Tue, 28 Oct 2025 13:22:12 +0300</pubDate>
+      <guid>http://localhost:1313/posts/lumenprivacy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;game-lumenglide&#34;&gt;Game: LumenGlide&lt;/h2&gt;&#xA;&lt;p&gt;We value your privacy. This Privacy Policy explains how we handle information when you use LumenGlide.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Personal Information: We do not require you to provide personal information to play the game.&lt;/li&gt;&#xA;&lt;li&gt;Device Data: We may automatically collect basic technical data such as device type, operating system, app version, and crash reports.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-how-we-use-information&#34;&gt;2. How We Use Information&lt;/h3&gt;&#xA;&lt;p&gt;To provide core game functionality.&lt;/p&gt;&#xA;&lt;p&gt;To fix bugs, improve performance, and add new features.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lumen TOS</title>
+      <link>http://localhost:1313/posts/lumentos/</link>
+      <pubDate>Tue, 28 Oct 2025 13:22:06 +0300</pubDate>
+      <guid>http://localhost:1313/posts/lumentos/</guid>
+      <description>&lt;h1 id=&#34;terms-and-conditions&#34;&gt;Terms and Conditions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;game-lumenglide&#34;&gt;Game: LumenGlide&lt;/h2&gt;&#xA;&lt;p&gt;By downloading or playing LumenGlide, you agree to these Terms and Conditions. If you do not agree, do not use the game.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-license&#34;&gt;1. License&lt;/h3&gt;&#xA;&lt;p&gt;We grant you a limited, non-transferable, non-exclusive license to download and use the game for personal, non-commercial entertainment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-user-conduct&#34;&gt;2. User Conduct&lt;/h3&gt;&#xA;&lt;p&gt;You agree not to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reverse-engineer, copy, or modify the game.&lt;/li&gt;&#xA;&lt;li&gt;Exploit bugs, cheats, or hacks.&lt;/li&gt;&#xA;&lt;li&gt;Use the game for unlawful purposes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-virtual-items-and-purchases&#34;&gt;3. Virtual Items and Purchases&lt;/h3&gt;&#xA;&lt;p&gt;The game may include virtual items, coins, or diamonds. These have no real-world monetary value.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 28 Oct 2025 13:20:09 +0300</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lumen Tos</title>
+      <link>http://localhost:1313/posts/lumen-tos/</link>
+      <pubDate>Tue, 28 Oct 2025 13:12:50 +0300</pubDate>
+      <guid>http://localhost:1313/posts/lumen-tos/</guid>
+      <description>&lt;h1 id=&#34;terms-and-conditions&#34;&gt;Terms and Conditions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;game-lumenglide&#34;&gt;Game: LumenGlide&lt;/h2&gt;&#xA;&lt;p&gt;By downloading or playing LumenGlide, you agree to these Terms and Conditions. If you do not agree, do not use the game.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-license&#34;&gt;1. License&lt;/h3&gt;&#xA;&lt;p&gt;We grant you a limited, non-transferable, non-exclusive license to download and use the game for personal, non-commercial entertainment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-user-conduct&#34;&gt;2. User Conduct&lt;/h3&gt;&#xA;&lt;p&gt;You agree not to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reverse-engineer, copy, or modify the game.&lt;/li&gt;&#xA;&lt;li&gt;Exploit bugs, cheats, or hacks.&lt;/li&gt;&#xA;&lt;li&gt;Use the game for unlawful purposes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-virtual-items-and-purchases&#34;&gt;3. Virtual Items and Purchases&lt;/h3&gt;&#xA;&lt;p&gt;The game may include virtual items, coins, or diamonds. These have no real-world monetary value.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lumen Privacy</title>
+      <link>http://localhost:1313/posts/lumen-privacy/</link>
+      <pubDate>Tue, 28 Oct 2025 13:12:43 +0300</pubDate>
+      <guid>http://localhost:1313/posts/lumen-privacy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;game-lumenglide&#34;&gt;Game: LumenGlide&lt;/h2&gt;&#xA;&lt;p&gt;We value your privacy. This Privacy Policy explains how we handle information when you use LumenGlide.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Personal Information: We do not require you to provide personal information to play the game.&lt;/li&gt;&#xA;&lt;li&gt;Device Data: We may automatically collect basic technical data such as device type, operating system, app version, and crash reports.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-how-we-use-information&#34;&gt;2. How We Use Information&lt;/h3&gt;&#xA;&lt;p&gt;To provide core game functionality.&lt;/p&gt;&#xA;&lt;p&gt;To fix bugs, improve performance, and add new features.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tos</title>
+      <link>http://localhost:1313/posts/tos/</link>
+      <pubDate>Thu, 25 Sep 2025 18:29:49 +0300</pubDate>
+      <guid>http://localhost:1313/posts/tos/</guid>
+      <description>&lt;h1 id=&#34;terms-and-conditions&#34;&gt;Terms and Conditions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;game-drag-race-gearshift&#34;&gt;Game: Drag Race Gearshift&lt;/h2&gt;&#xA;&lt;p&gt;By downloading or playing Drag Race Gearshift, you agree to these Terms and Conditions. If you do not agree, do not use the game.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-license&#34;&gt;1. License&lt;/h3&gt;&#xA;&lt;p&gt;We grant you a limited, non-transferable, non-exclusive license to download and use the game for personal, non-commercial entertainment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-user-conduct&#34;&gt;2. User Conduct&lt;/h3&gt;&#xA;&lt;p&gt;You agree not to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reverse-engineer, copy, or modify the game.&lt;/li&gt;&#xA;&lt;li&gt;Exploit bugs, cheats, or hacks.&lt;/li&gt;&#xA;&lt;li&gt;Use the game for unlawful purposes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-virtual-items-and-purchases&#34;&gt;3. Virtual Items and Purchases&lt;/h3&gt;&#xA;&lt;p&gt;The game may include virtual items, coins, or diamonds. These have no real-world monetary value.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/posts/privacy/</link>
+      <pubDate>Thu, 25 Sep 2025 18:29:36 +0300</pubDate>
+      <guid>http://localhost:1313/posts/privacy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;game-drag-race-gearshift&#34;&gt;Game: Drag Race Gearshift&lt;/h2&gt;&#xA;&lt;p&gt;We value your privacy. This Privacy Policy explains how we handle information when you use Drag Race Gearshift.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Personal Information: We do not require you to provide personal information to play the game.&lt;/li&gt;&#xA;&lt;li&gt;Device Data: We may automatically collect basic technical data such as device type, operating system, app version, and crash reports.&lt;/li&gt;&#xA;&lt;li&gt;Analytics: We may use third-party services (e.g., Google Play Services, Firebase Analytics, AdMob) that collect information such as gameplay activity, in-app purchases, or ad interactions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-how-we-use-information&#34;&gt;2. How We Use Information&lt;/h3&gt;&#xA;&lt;p&gt;To provide core game functionality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trial</title>
+      <link>http://localhost:1313/posts/trial/</link>
+      <pubDate>Wed, 24 Sep 2025 12:38:28 +0300</pubDate>
+      <guid>http://localhost:1313/posts/trial/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

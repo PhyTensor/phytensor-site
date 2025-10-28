@@ -2,14 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.phytensor.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-28T13:22:12+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lumenprivacy/</loc>
+    <lastmod>2025-10-28T13:22:12+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-28T13:22:12+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lumentos/</loc>
+    <lastmod>2025-10-28T13:22:06+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2025-10-28T13:20:09+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lumen-tos/</loc>
+    <lastmod>2025-10-28T13:12:50+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lumen-privacy/</loc>
+    <lastmod>2025-10-28T13:12:43+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tos/</loc>
     <lastmod>2025-09-25T18:29:49+03:00</lastmod>
   </url><url>
-    <loc>https://www.phytensor.xyz/posts/</loc>
-    <lastmod>2025-09-25T18:29:49+03:00</lastmod>
+    <loc>http://localhost:1313/posts/privacy/</loc>
+    <lastmod>2025-09-25T18:29:36+03:00</lastmod>
   </url><url>
-    <loc>https://www.phytensor.xyz/categories/</loc>
+    <loc>http://localhost:1313/posts/trial/</loc>
+    <lastmod>2025-09-24T12:38:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.phytensor.xyz/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
